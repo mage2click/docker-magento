@@ -1,3 +1,7 @@
+FYI, we have decided to switch our contributions to the new repository https://github.com/mage2click/docker-magento-mutagen
+
+Originally, our custom branches in the forked repo were based on Mark’s repo, but we have done a lot of changes which makes it not backward compatible.
+
 <h1 align="center">markshust/docker-magento</h1> 
 
 <div align="center">
